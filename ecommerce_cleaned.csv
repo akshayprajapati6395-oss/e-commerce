@@ -1,0 +1,31 @@
+Order_ID,Order_Date,Customer_ID,City,Seller,Category,Product,Quantity,Unit_Price,Discount,Shipping_Fee,Payment_Method,Order_Status,Delivery_Days,Customer_Rating,Order_Value,Month,Day_Type
+ORD2001,2026-07-05,CUST11,Delhi,TechZone,Electronics,Wireless Earbuds,1,1999,200,0,UPI,Delivered,4.0,4.5,1999,2026-07,Weekend
+ORD2002,2026-07-12,CUST24,Mumbai,StyleHub,Fashion,Running Shoes,2,2199,400,50,Card,Delivered,3.0,4.2,4398,2026-07,Weekend
+ORD2003,2026-07-18,CUST07,Bengaluru,HomeNest,Home,Mixer Grinder,1,2999,300,99,Net Banking,Delivered,6.0,3.6,2999,2026-07,Weekend
+ORD2004,2026-07-21,CUST33,Pune,BookBay,Books,Python Book,2,499,0,40,UPI,Delivered,2.0,4.8,998,2026-07,Weekday
+ORD2005,2026-07-25,CUST18,Hyderabad,GlowCart,Beauty,Perfume,1,1499,150,50,Wallet,Cancelled,,,1499,2026-07,Weekend
+ORD2006,2026-08-02,CUST29,Delhi,TechZone,Electronics,Smart Watch,1,3499,500,0,Unknown,Delivered,5.0,4.0,3499,2026-08,Weekend
+ORD2007,2026-08-06,CUST45,Mumbai,StyleHub,Fashion,Denim Jacket,1,1799,0,50,Cash on Delivery,Delivered,7.0,3.2,1799,2026-08,Weekday
+ORD2008,2026-08-09,CUST02,Chennai,HomeNest,Home,Table Lamp,3,799,200,60,UPI,Delivered,4.0,4.4,2397,2026-08,Weekend
+ORD2009,2026-08-15,CUST51,Delhi,TechZone,Electronics,Power Bank,2,1299,100,0,Card,Delivered,3.0,4.2,2598,2026-08,Weekend
+ORD2010,2026-08-19,CUST14,Bengaluru,GlowCart,Beauty,Face Wash,4,299,0,40,UPI,Delivered,2.0,4.6,1196,2026-08,Weekday
+ORD2011,2026-08-23,CUST37,Hyderabad,TechZone,Electronics,Bluetooth Speaker,1,2499,250,0,Net Banking,Returned,,,2499,2026-08,Weekend
+ORD2012,2026-08-28,CUST09,Pune,StyleHub,Fashion,T-Shirt,3,599,100,50,Cash on Delivery,Delivered,4.0,3.9,1797,2026-08,Weekday
+ORD2013,2026-09-01,CUST21,Mumbai,BookBay,Books,Notebook Pack,5,249,0,40,Wallet,Delivered,3.0,4.7,1245,2026-09,Weekday
+ORD2014,2026-09-04,CUST60,Delhi,HomeNest,Home,Bedsheet Set,2,1299,200,99,Card,Delivered,5.0,4.1,2598,2026-09,Weekday
+ORD2015,2026-09-08,CUST33,Chennai,StyleHub,Fashion,Backpack,1,1099,0,50,UPI,Delivered,6.0,3.5,1099,2026-09,Weekday
+ORD2016,2026-09-12,CUST16,Bengaluru,TechZone,Electronics,Wireless Earbuds,2,1999,300,0,UPI,Delivered,2.0,4.9,3998,2026-09,Weekend
+ORD2017,2026-09-17,CUST48,Hyderabad,GlowCart,Beauty,Perfume,2,1499,0,50,Cash on Delivery,Returned,,,2998,2026-09,Weekday
+ORD2018,2026-09-20,CUST05,Delhi,BookBay,Books,Python Book,1,499,50,40,Unknown,Delivered,3.0,4.5,499,2026-09,Weekend
+ORD2019,2026-09-24,CUST27,Mumbai,HomeNest,Home,Mixer Grinder,1,2999,0,99,Net Banking,Delivered,8.0,2.9,2999,2026-09,Weekday
+ORD2020,2026-09-27,CUST39,Pune,TechZone,Electronics,Smart Watch,2,3499,700,0,Wallet,Delivered,4.0,4.3,6998,2026-09,Weekend
+ORD2021,2026-10-02,CUST11,Delhi,StyleHub,Fashion,Running Shoes,1,2199,200,50,UPI,Delivered,3.0,4.4,2199,2026-10,Weekday
+ORD2022,2026-10-05,CUST52,Chennai,GlowCart,Beauty,Face Wash,2,299,0,40,Cash on Delivery,Cancelled,,,598,2026-10,Weekday
+ORD2023,2026-10-09,CUST24,Mumbai,TechZone,Electronics,Power Bank,1,1299,0,0,Card,Delivered,2.0,4.6,1299,2026-10,Weekday
+ORD2024,2026-10-13,CUST43,Bengaluru,HomeNest,Home,Table Lamp,2,799,100,60,UPI,Delivered,5.0,3.8,1598,2026-10,Weekday
+ORD2025,2026-10-17,CUST08,Hyderabad,StyleHub,Fashion,Denim Jacket,2,1799,300,50,Wallet,Delivered,7.0,3.4,3598,2026-10,Weekend
+ORD2026,2026-10-21,CUST30,Delhi,TechZone,Electronics,Bluetooth Speaker,2,2499,500,0,UPI,Delivered,4.0,4.2,4998,2026-10,Weekday
+ORD2027,2026-10-24,CUST19,Pune,BookBay,Books,Notebook Pack,3,249,0,40,Cash on Delivery,Delivered,4.0,4.0,747,2026-10,Weekend
+ORD2028,2026-10-27,CUST56,Mumbai,GlowCart,Beauty,Perfume,1,1499,100,50,Card,Delivered,3.0,4.7,1499,2026-10,Weekday
+ORD2029,2026-10-30,CUST14,Chennai,TechZone,Electronics,Wireless Earbuds,1,1999,0,0,UPI,Delivered,9.0,2.8,1999,2026-10,Weekday
+ORD2030,2026-11-03,CUST41,Delhi,StyleHub,Fashion,T-Shirt,4,599,200,50,UPI,Delivered,3.0,4.5,2396,2026-11,Weekday
